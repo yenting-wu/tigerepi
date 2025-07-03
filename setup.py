@@ -31,7 +31,8 @@ setup(
             'tigerepi_seg = tigerepi.tigerepi_seg:main',
             'tigervdm = tigerepi.tigerepi_vdm:main',
             'tigerepi_vdm = tigerepi.tigerepi_vdm:main',
-
+            'tigerreg = tigerepi.tigerepi_reg:main',
+            'tigerepi_reg = tigerepi.tigerepi_reg:main',
         ]
     },
      python_requires='>=3.7',
